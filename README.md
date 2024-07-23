@@ -52,7 +52,14 @@ We screened ALB purchased from Active Motif. For those contestants wishing to in
 - `notebooks/`: Jupyter notebooks for exploratory data analysis and model training.
 - `data/`: Directory to store datasets.
 - `images/`: Images and visuals for README and documentation.
+  
 
+## Usage
+
+1. Download the dataset from the [Kaggle competition page](https://www.kaggle.com/competitions/neurips-2024-predict-new-medicines-with-belka).
+2. Place the dataset in the data/ directory.
+3. Run the Jupyter notebooks in the notebooks/ directory to perform exploratory data analysis and model training.
+   
 ## Results
 Here, we display some results, visualizations, and metrics achieved during the competition.
 
